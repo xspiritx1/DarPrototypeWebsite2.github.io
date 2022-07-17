@@ -1,0 +1,1094 @@
+/* Macbook air (DEONE) */
+@media (max-width: 1281px){
+    /* ABOUT SECTION */
+    .about-text{
+        padding-left: 600px;
+        
+        font-size: 30px;
+    }
+    .about-text h5{
+        font-size: 50px;  
+        padding-top: 0px;
+    }
+    /* END OF ABOUT SECTION */
+
+    /* AMENITIES SECTION */
+    .section-sub-heading{
+        font-size: 30px;
+    }
+
+    .titles{
+        padding-top: 250px;
+        font-size: 30px;
+    }
+
+    .img1{
+        width: 50%;
+        height: 70%;
+    }
+    .img2{
+        width: 50%;
+        height: 70%;
+        padding-top: 200px;
+        margin-left: 635px;
+    }
+    .img3{
+        width: 50%;
+        padding-top: 500px;
+        margin-left: 0px;
+    }
+    .img4{
+        width: 50%;
+        padding-top: 500px;
+        margin-left: 635px;
+    }
+    .img5{
+        width: 50%;
+        height: 50%;
+    }
+    .img6{
+        width: 50%;
+        height: 50%;
+        margin-left: 635px;
+    }
+    .img7{
+        width: 50%;
+        padding-top: 380px;
+        margin-left: 0px;
+    }
+    .img8{
+        width: 50%;
+        padding-top: 380px;
+        margin-left: 635px;
+    }
+    /* END OF AMENITIES SECTION */
+
+    /* CONTACT SECTION */
+    #Booking{
+        font-size: 20px;
+    }
+    .name-of-sender{
+        padding-left: 7px;
+    }
+    /* END OF CONTACT SECTION */
+}
+
+/* Ipad Air 4 & PRO 11 (DONE) */
+@media (max-width: 885px){
+    /* HOMEPAGE SECTION */
+    .toggle-button{
+        display: flex; 
+    }
+
+    #home-page h2{
+        font-size: 45px;
+    }
+
+    .navbar-links{
+        display: none;
+        width: 100%; 
+    }
+
+    .navbar{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar-links ul{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .navbar-links li{
+        text-align: center;
+    }
+
+    .navbar-links li a{
+        padding: .1rem 1rem;
+        float: right;
+    }
+
+    .navbar-links.active{
+        display: flex;
+    }
+
+    header ul li a{
+        background-color: #2b1055;
+        color: #fff;
+    }
+
+    header .logo{
+        font-size: 2em;
+    }
+    /* END OF HOMEPAGE SECTION */
+
+    /* ABOUT SECTION */
+    .about{
+        height: 100%;
+    }
+
+    .about-heading{
+        font-size: 40px;
+    }
+
+    .about-text{
+        padding-left: 0px;
+        margin-top: 550px;
+        font-size: 20px;
+    }
+
+    .about-text h5{
+        font-size: 40px;  
+        padding-top: 700px;
+    }
+
+    .sec{
+        padding: 0px;
+    }
+    
+    .sec p{
+        font-size: 1em;
+    }
+
+    .about .content img{
+        width: auto;
+        padding-top: 10px;
+        padding-left: 0px;
+    }
+    /* END OF ABOUT SECTION */
+
+    /* AMENITIES SECTION */
+    .section-sub-heading{
+        font-size: 30px;
+    }
+
+    .titles{
+        padding-top: 10px;
+        margin-bottom: 100px;
+        font-size: 25px;
+    }
+
+    .img1{
+        width: 50%;
+        height: 70%;
+    }
+    .img2{
+        width: 50%;
+        height: 70%;
+        padding-top: 200px;
+        margin-left: 400px;
+    }
+    .img3{
+        width: 50%;
+        padding-top: 600px;
+        margin-left: 0px;
+    }
+    .img4{
+        width: 50%;
+        padding-top: 600px;
+        margin-left: 400px;
+    }
+    .img5{
+        width: 50%;
+        height: 50%;
+    }
+    .img6{
+        width: 50%;
+        height: 50%;
+        margin-left: 400px;
+    }
+    .img7{
+        width: 50%;
+        padding-top: 450px;
+        margin-left: 0px;
+    }
+    .img8{
+        width: 50%;
+        padding-top: 450px;
+        margin-left: 400px;
+    }
+    /* END OF AMENITIES SECTION */
+
+    /* GALLERY SECTION 
+    
+    .packages-section p{
+        font-size: 49px;
+    } */
+
+    /* PACKAGES SECTION */
+    #choices{
+        font-size: 30px;
+        padding: 57px 50px 0 0;
+        
+    }
+
+    .first,
+    .second,
+    .third,
+    .fourth{
+        padding-top: 50px;
+        width: 100vh;
+    }
+    
+    .pack-contain{
+        display:inline-block;
+        padding: 0;
+        overflow-y:visible;
+        padding-left: 0px;
+    }
+    /* END OF PACKAGES SECTION */
+
+     /* CONTACT SECTION */
+     .contact-heading{
+        font-size: 50px;
+    }
+    .contact-heading1{
+        font-size: 39px;
+        padding: 60px 50px 60px 0;
+
+    }
+    .first1,
+    .second2,
+    .third3,
+    .fourth4{
+        padding-top: 50px;
+    }
+    #Booking{
+        display: inline-block;
+        padding: 0;
+        overflow-y:auto;
+        background: #1c0522;
+        padding-left: 40px;
+        height: 700px;
+    }
+    .name-of-sender{
+        padding-left: 7px;
+    }
+    /* END OF CONTACT SECTION */
+
+    /* FOOTER SECTION */
+    .footer-image{
+        padding-right: 0;
+        padding-bottom: 10px;
+    }
+    #AboutUs2,
+    #Amenities2,
+    #Gallery2{
+        padding-bottom: 15px;
+    }
+    .social-links{
+        padding-top: 50px;
+        padding-right: 90px;
+    }
+    .footer-info2{
+        float: left;
+    }
+    .footer-info3{
+        float: right;
+        padding-left: 50px;
+        font-size: 19px;
+    }
+    /* END OF FOOTER SECTION */
+}
+
+/* Ipad mini (DONE) */
+@media (max-width: 769px){
+    /* HOMEPAGE SECTION */
+    .toggle-button{
+        display: flex; 
+    }
+
+    #home-page h2{
+        font-size: 45px;
+    }
+
+    .navbar-links{
+        display: none;
+        width: 100%; 
+    }
+
+    .navbar{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar-links ul{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .navbar-links li{
+        text-align: center;
+    }
+
+    .navbar-links li a{
+        padding: .1rem 1rem;
+        float: right;
+    }
+
+    .navbar-links.active{
+        display: flex;
+    }
+
+    header ul li a{
+        background-color: #2b1055;
+        color: #fff;
+    }
+
+    header .logo{
+        font-size: 2em;
+    }
+    /* END OF HOMEPAGE SECTION */
+
+    /* ABOUT SECTION */
+    .about{
+        height: 100%;
+    }
+
+    .about-heading{
+        font-size: 40px;
+    }
+
+    .about-text{
+        padding-left: 0px;
+        margin-top: 500px;
+        font-size: 20px;
+    }
+
+    .about-text h5{
+        font-size: 40px;  
+        padding-top: 700px;
+    }
+
+    .sec{
+        padding: 0px;
+    }
+    
+    .sec p{
+        font-size: 1em;
+    }
+
+    .about .content img{
+        width: auto;
+        padding-top: 10px;
+        padding-left: 0px;
+    }
+    /* END OF ABOUT SECTION */
+
+    /* AMENITIES SECTION */
+    .section-sub-heading{
+        font-size: 30px;
+    }
+
+    .titles{
+        padding-top: 100px;
+        font-size: 25px;
+    }
+
+    .img1{
+        width: 50%;
+        height: 70%;
+    }
+    .img2{
+        width: 50%;
+        height: 70%;
+        padding-top: 200px;
+        margin-left: 400px;
+    }
+    .img3{
+        width: 50%;
+        padding-top: 600px;
+        margin-left: 0px;
+    }
+    .img4{
+        width: 50%;
+        padding-top: 600px;
+        margin-left: 400px;
+    }
+    .img5{
+        width: 50%;
+        height: 50%;
+    }
+    .img6{
+        width: 50%;
+        height: 50%;
+        margin-left: 400px;
+    }
+    .img7{
+        width: 50%;
+        padding-top: 450px;
+        margin-left: 0px;
+    }
+    .img8{
+        width: 50%;
+        padding-top: 450px;
+        margin-left: 400px;
+    }
+    /* END OF AMENITIES SECTION */
+
+    /* GALLERY SECTION 
+    
+    .packages-section p{
+        font-size: 49px;
+    } */
+
+    /* PACKAGES SECTION */
+    #choices{
+        font-size: 30px;
+        padding: 57px 50px 0 0;
+        
+    }
+
+    .first,
+    .second,
+    .third,
+    .fourth{
+        padding-top: 50px;
+        width: 100vh;
+    }
+    
+    .pack-contain{
+        display:inline-block;
+        padding: 0;
+        overflow-y:visible;
+        padding-left: 0px;
+    }
+    /* END OF PACKAGES SECTION */
+
+     /* CONTACT SECTION */
+     .contact-heading{
+        font-size: 50px;
+    }
+    .contact-heading1{
+        font-size: 39px;
+        padding: 60px 50px 60px 0;
+
+    }
+    .first1,
+    .second2,
+    .third3,
+    .fourth4{
+        padding-top: 50px;
+    }
+    #Booking{
+        display: inline-block;
+        padding: 0;
+        overflow-y:auto;
+        background: #1c0522;
+        padding-left: 40px;
+        height: 700px;
+    }
+    .name-of-sender{
+        padding-left: 7px;
+    }
+    /* END OF CONTACT SECTION */
+
+    /* FOOTER SECTION */
+    .footer-image{
+        padding-right: 0;
+        padding-bottom: 10px;
+    }
+    #AboutUs2,
+    #Amenities2,
+    #Gallery2{
+        padding-bottom: 15px;
+    }
+    .social-links{
+        padding-top: 50px;
+        padding-right: 90px;
+    }
+    .footer-info2{
+        float: left;
+    }
+    .footer-info3{
+        float: right;
+        padding-left: 50px;
+        font-size: 19px;
+    }
+    /* END OF FOOTER SECTION */
+}
+
+/* Smartphones, Android phones, landscape iPhone / IPHONE 12-12 PRO (DONE) */
+@media only screen and (max-width: 428px) {
+    /* HOMEPAGE SECTION */
+    .toggle-button{
+        display: flex; 
+    }
+
+    #home-page h2{
+        font-size: 45px;
+    }
+
+    .navbar-links{
+        display: none;
+        width: 100%; 
+    }
+
+    .navbar{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar-links ul{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .navbar-links li{
+        text-align: center;
+    }
+
+    .navbar-links li a{
+        padding: .1rem 1rem;
+        float: right;
+    }
+
+    .navbar-links.active{
+        display: flex;
+    }
+
+    header ul li a{
+        background-color: #2b1055;
+        color: #fff;
+    }
+
+    header .logo{
+        font-size: 1.2em;
+    }
+    /* END OF HOMEPAGE SECTION */
+
+    /* ABOUT SECTION */
+    .about{
+        height: 100%;
+    }
+
+    .about-heading{
+        font-size: 40px;
+    }
+
+    .about-text{
+        padding-left: 0px;
+        margin-top: 500px;
+        font-size: 20px;
+    }
+
+    .about-text h5{
+        font-size: 40px;  
+        padding-top: 100px;
+    }
+
+    .sec{
+        padding: 0px;
+    }
+    
+    .sec p{
+        font-size: 1em;
+    }
+
+    .about .content img{
+        width: auto;
+        padding-top: 10px;
+        padding-left: 0px;
+    }
+    /* END OF ABOUT SECTION */
+
+    /* AMENITIES SECTION */
+    .section-sub-heading{
+        font-size: 40px;
+    }
+
+    .titles{
+        padding-top: 300px;
+        font-size: 17px;
+    }
+
+    .img1{
+        width: 50%;
+        height: 65%;
+    }
+    .img2{
+        width: 50%;
+        height: 65%;
+        padding-top: 200px;
+        margin-left: 200px;
+    }
+    .img3{
+        width: 50%;
+        padding-top: 440px;
+        margin-left: 0px;
+    }
+    .img4{
+        width: 50%;
+        padding-top: 440px;
+        margin-left: 200px;
+    }
+    .img5{
+        width: 50%;
+        height: 50%;
+    }
+    .img6{
+        width: 50%;
+        height: 50%;
+        margin-left: 200px;
+    }
+    .img7{
+        width: 50%;
+        padding-top: 337px;
+        margin-left: 0px;
+    }
+    .img8{
+        width: 50%;
+        padding-top: 337px;
+        margin-left: 200px;
+    }
+    /* END OF AMENITIES SECTION */
+
+    /* ELEMENTOR SECTION */
+    .space1 h1{
+        font-size: 30px;
+    }
+    /* END OF ELEMENTOR SECTION */
+
+    /* GALLERY SECTION */
+    .section-gallery{
+        font-size: 40px;
+    }
+
+    #Gallery h3{
+        font-size: 20px;
+    }
+
+    .pic1,
+    .pic2,
+    .pic3,
+    .pic4,
+    .pic5,
+    .pic6,
+    .pic7,
+    .pic8{
+        width: auto;
+        height: auto;
+    }
+    /* END OF GALLERY SECTION */
+
+    /* PACKAGES SECTION */
+    #choices{
+        font-size: 30px;
+        padding: 57px 50px 0 0;
+        
+    }
+
+    .first,
+    .second,
+    .third,
+    .fourth{
+        padding-top: 50px;
+    }
+    
+    .pack-contain{
+        display: inline-block;
+        padding: 0;
+        overflow-y:auto;
+        padding-left: 40px;
+    }
+    /* END OF PACKAGES SECTION */
+
+    /* CONTACT SECTION */
+    .contact-heading{
+        font-size: 50px;
+    }
+    .contact-heading1{
+        font-size: 39px;
+        padding: 60px 50px 60px 0;
+
+    }
+    .first1,
+    .second2,
+    .third3,
+    .fourth4{
+        padding-top: 50px;
+    }
+    #Booking{
+        display: inline-block;
+        padding: 0;
+        overflow-y:auto;
+        background: #1c0522;
+        padding-left: 40px;
+        height: 700px;
+    }
+    .name-of-sender{
+        padding-left: 0px;
+    }
+    /* END OF CONTACT SECTION */
+
+    /* FOOTER SECTION */
+    .footer-image{
+        padding-right: 0;
+        padding-bottom: 10px;
+    }
+    #AboutUs2,
+    #Amenities2,
+    #Gallery2{
+        padding-bottom: 15px;
+    }
+    .social-links{
+        padding-top: 50px;
+        padding-right: 90px;
+    }
+    .footer-info2{
+        float: left;
+    }
+    .footer-info3{
+        float: left;
+    }
+    /* END OF FOOTER SECTION */
+}
+
+/* Iphone 12 pro (DONE) */
+@media only screen and (max-width: 391px) {
+    /* HOMEPAGE SECTION */
+    .toggle-button{
+        display: flex; 
+    }
+
+    #home-page h2{
+        font-size: 45px;
+    }
+
+    .navbar-links{
+        display: none;
+        width: 100%; 
+    }
+
+    .navbar{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar-links ul{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .navbar-links li{
+        text-align: center;
+    }
+
+    .navbar-links li a{
+        padding: .1rem 1rem;
+        float: right;
+    }
+
+    .navbar-links.active{
+        display: flex;
+    }
+
+    header ul li a{
+        background-color: #2b1055;
+        color: #fff;
+    }
+
+    header .logo{
+        font-size: 1.2em;
+    }
+    /* END OF HOMEPAGE SECTION */
+
+    /* ABOUT SECTION */
+    .about{
+        height: 100%;
+    }
+
+    .about-heading{
+        font-size: 40px;
+    }
+
+    .about-text{
+        padding-left: 0px;
+        margin-top: 500px;
+        font-size: 20px;
+    }
+
+    .about-text h5{
+        font-size: 40px;  
+        padding-top: 20px;
+    }
+
+    .sec{
+        padding: 0px;
+    }
+    
+    .sec p{
+        font-size: 1em;
+    }
+
+    .about .content img{
+        width: auto;
+        padding-top: 10px;
+        padding-left: 0px;
+    }
+    /* END OF ABOUT SECTION */
+
+    /* AMENITIES SECTION */
+    .section-sub-heading{
+        font-size: 40px;
+    }
+
+    .titles{
+        padding-top: 350px;
+        font-size: 17px;
+    }
+
+    .img1{
+        width: 50%;
+        height: 65%;
+    }
+    .img2{
+        width: 50%;
+        height: 65%;
+        padding-top: 200px;
+        margin-left: 200px;
+    }
+    .img3{
+        width: 50%;
+        padding-top: 440px;
+        margin-left: 0px;
+    }
+    .img4{
+        width: 50%;
+        padding-top: 440px;
+        margin-left: 200px;
+    }
+    .img5{
+        width: 50%;
+        height: 50%;
+    }
+    .img6{
+        width: 50%;
+        height: 50%;
+        margin-left: 200px;
+    }
+    .img7{
+        width: 50%;
+        padding-top: 337px;
+        margin-left: 0px;
+    }
+    .img8{
+        width: 50%;
+        padding-top: 337px;
+        margin-left: 200px;
+    }
+    /* END OF AMENITIES SECTION */
+
+    /* ELEMENTOR SECTION */
+    .space1 h1{
+        font-size: 30px;
+    }
+    /* END OF ELEMENTOR SECTION */
+
+    /* GALLERY SECTION */
+    .section-gallery{
+        font-size: 40px;
+    }
+
+    #Gallery h3{
+        font-size: 20px;
+    }
+
+    .pic1,
+    .pic2,
+    .pic3,
+    .pic4,
+    .pic5,
+    .pic6,
+    .pic7,
+    .pic8{
+        width: auto;
+        height: auto;
+    }
+    /* END OF GALLERY SECTION */
+
+    /* PACKAGES SECTION */
+    #choices{
+        font-size: 30px;
+        padding: 57px 50px 0 0;
+        
+    }
+
+    .first,
+    .second,
+    .third,
+    .fourth{
+        padding-top: 50px;
+    }
+    
+    .pack-contain{
+        display: inline-block;
+        padding: 0;
+        overflow-y:auto;
+        padding-left: 40px;
+    }
+    /* END OF PACKAGES SECTION */
+
+    /* CONTACT SECTION */
+    .contact-heading{
+        font-size: 50px;
+    }
+    .contact-heading1{
+        font-size: 39px;
+        padding: 60px 50px 60px 0;
+
+    }
+    .first1,
+    .second2,
+    .third3,
+    .fourth4{
+        padding-top: 50px;
+    }
+    #Booking{
+        display: inline-block;
+        padding: 0;
+        overflow-y:auto;
+        background: #1c0522;
+        padding-left: 40px;
+        height: 700px;
+    }
+    .name-of-sender{
+        padding-left: 0px;
+    }
+    /* END OF CONTACT SECTION */
+
+    /* FOOTER SECTION */
+    .footer-image{
+        padding-right: 0;
+        padding-bottom: 10px;
+    }
+    #AboutUs2,
+    #Amenities2,
+    #Gallery2{
+        padding-bottom: 15px;
+    }
+    .social-links{
+        padding-top: 50px;
+        padding-right: 90px;
+    }
+    .footer-info2{
+        float: left;
+    }
+    .footer-info3{
+        float: left;
+    }
+    /* END OF FOOTER SECTION */
+}
+
+/* Iphone x (DONE) */
+@media only screen and (max-width: 376px){
+    /* HOMEPAGE SECTION */
+    header .logo{
+        font-size: 1em;
+    }
+    /* END OF HOMEPAGE SECTION */
+
+    /* AMENITIES SECTION */
+    .section-sub-heading{
+        font-size: 40px;
+    }
+
+    .titles{
+        padding-top: 500px;
+        font-size: 17px;
+    }
+
+    /* END OF AMENITIES SECTION */
+}
+
+/* Android phones (DONE) */
+@media (max-width: 361px){
+    /* HOMEPAGE SECTION */
+    header .logo{
+        font-size: 1em;
+    }
+    /* END OF HOMEPAGE SECTION */
+
+    /* AMENITIES SECTION */
+    .titles{
+        padding-top: 400px;
+        font-size: 15px;
+    }
+    /* END OF AMENITIES SECTION */
+}
+
+/* Smartphones, portrait iPhone, portrait 480x320 phones (Android Iphones) (DONE) */
+@media (max-width: 321px){
+    /* HOMEPAGE SECTION */
+    header .logo{
+        font-size: .7em;
+    }
+    /* END OF HOMEPAGE SECTION */
+
+    /* AMENITIES SECTION */
+    .section-sub-heading{
+        font-size: 20px;
+    }
+
+    .titles{
+        padding-top: 600px;
+        font-size: 15px;
+    }
+    .img1{
+        width: 50%;
+        height: 70%;
+    }
+    .img2{
+        width: 50%;
+        height: 70%;
+        padding-top: 200px;
+        margin-left: 180px;
+    }
+    .img3{
+        width: 50%;
+        padding-top: 325px;
+        margin-left: 0px;
+    }
+    .img4{
+        width: 50%;
+        padding-top: 325px;
+        margin-left: 180px;
+    }
+    .img5{
+        width: 50%;
+        height: 50%;
+    }
+    .img6{
+        width: 50%;
+        height: 50%;
+        margin-left: 180px;
+    }
+    .img7{
+        width: 50%;
+        padding-top: 227px;
+        margin-left: 0px;
+    }
+    .img8{
+        width: 50%;
+        padding-top: 227px;
+        margin-left: 180px;
+    }
+    /* END OF AMENITIES SECTION */
+
+    /* ELEMENTOR SECTION */
+    .space1 h1{
+        font-size: 20px;
+    }
+    /* END OF ELEMENTOR SECTION */
+
+    /* CONTACT SECTION */
+    .contact-heading{
+        font-size: 50px;
+    }
+    .contact-heading1{
+        font-size: 29px;
+        padding: 60px 50px 60px 0;
+
+    }
+    /* END OF CONTACT SECTION */
+}
