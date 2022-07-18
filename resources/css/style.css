@@ -28,7 +28,7 @@
 /* PRELOADER */
 #preloader{
     background: #191f26 url(../img/loader1.gif) no-repeat center center;
-    background-size: 30%;
+    background-size: 50%;
     height: 100vh;
     width: 100%;
     position: fixed;
