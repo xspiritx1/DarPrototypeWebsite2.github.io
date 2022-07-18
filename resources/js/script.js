@@ -44,7 +44,7 @@ $(document).ready(function() {
 
     window.addEventListener("load", function(){
         loader.style.display = "none";
-    });
+    })
 });
 
 
