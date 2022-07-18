@@ -40,7 +40,7 @@ $(document).ready(function() {
     });
     
     /* PRELOADER */
-    var loader = document.getElementById("loading");
+    var loader = document.getElementById("loader");
 
     window.addEventListener("load", function(){
         loader.style.display = "none";
