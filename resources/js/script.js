@@ -38,13 +38,6 @@ $(document).ready(function() {
             $(".js--dublex").addClass('animate__animated animate__pulse');
         }
     });
-    
-    /* PRELOADER */
-    var loader = document.getElementById("preloader");
-
-    window.addEventListener("load", function(){
-        loader.style.display = "none";
-    })
 });
 
 
